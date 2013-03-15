@@ -1,4 +1,4 @@
-# Graph Kernels And Node Kernels
+# Graph Kernel And Node Kernel
 
 About
 -----------
