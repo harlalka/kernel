@@ -20,5 +20,7 @@ Main class, for testing similarity between two nodes/graphs. You can change it t
 
 #### Data Used (test folder):
 `file - TS1.txt` contains adjacency matrix with 39 nodes.
+
 `file - TS2.txt` contains adjacency matrix with 39 nodes.
+
 `file - Z1.txt` contains adjacency matrix with 34 nodes.
